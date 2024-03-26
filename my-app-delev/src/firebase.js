@@ -5,7 +5,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, on
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBlTIBtpdosaLMUYKYupYugT53oQN4_9aE",
+  // apiKey: "AIzaSyBlTIBtpdosaLMUYKYupYugT53oQN4_9aE",
   authDomain: "fast-and-yummy.firebaseapp.com",
   projectId: "fast-and-yummy",
   storageBucket: "fast-and-yummy.appspot.com",
